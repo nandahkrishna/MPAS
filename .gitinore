@@ -1,0 +1,7 @@
+*.json
+*.ipynb
+*.csv
+/Database
+Database/
+Database\
+\Database
